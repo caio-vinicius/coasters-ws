@@ -1,6 +1,6 @@
 # Simple-API
 
-> A simple (and my first) REST API built with Golang
+A simple (and my first) REST API built with Golang
 
 ## Routes
 
