@@ -1,6 +1,6 @@
-# Simple-API
+# coasters-ws
 
-A simple (and my first) REST API built with Golang
+Coasters webservice built with Golang
 
 ## Routes
 
